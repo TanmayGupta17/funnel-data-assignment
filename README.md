@@ -1,6 +1,6 @@
 ﻿# funnel-data-assignment
 
-How to Run the Data Analytics Assignment Code
+## How to Run the Data Analytics Assignment Code
 Prerequisites
 
 Python 3.8 or higher installed
@@ -54,3 +54,4 @@ If Python cannot find files, check your command line paths.
 For missing libraries, rerun the pip install command.
 
 Use Python 3 (run with python3 if both Python 2 and 3 are installed).
+
