@@ -1,0 +1,80 @@
+{
+  "funnel": [
+    {
+      "device": "desktop",
+      "loaded_users": 49,
+      "interact_users": 33,
+      "clicks_users": 17,
+      "purchase_users": 6,
+      "conv_loaded_to_interact_pct": 67.35,
+      "conv_interact_to_clicks_pct": 51.52,
+      "conv_clicks_to_purchase_pct": 35.29
+    },
+    {
+      "device": "mobile",
+      "loaded_users": 53,
+      "interact_users": 42,
+      "clicks_users": 24,
+      "purchase_users": 9,
+      "conv_loaded_to_interact_pct": 79.25,
+      "conv_interact_to_clicks_pct": 57.14,
+      "conv_clicks_to_purchase_pct": 37.5
+    }
+  ],
+  "intents": [
+    {
+      "intent": "product_search",
+      "total_intents": 255,
+      "pct_of_total": 72.44,
+      "purchase_conversion_rate": 17.07
+    },
+    {
+      "intent": "product_comparison",
+      "total_intents": 113,
+      "pct_of_total": 32.1,
+      "purchase_conversion_rate": 19.51
+    },
+    {
+      "intent": "faq",
+      "total_intents": 95,
+      "pct_of_total": 26.99,
+      "purchase_conversion_rate": 19.44
+    },
+    {
+      "intent": "product_details",
+      "total_intents": 91,
+      "pct_of_total": 25.85,
+      "purchase_conversion_rate": 18.92
+    },
+    {
+      "intent": "track_order",
+      "total_intents": 69,
+      "pct_of_total": 19.6,
+      "purchase_conversion_rate": 9.38
+    },
+    {
+      "intent": "brand_question",
+      "total_intents": 50,
+      "pct_of_total": 14.2,
+      "purchase_conversion_rate": 8.33
+    },
+    {
+      "intent": "unknown",
+      "total_intents": 33,
+      "pct_of_total": 9.38,
+      "purchase_conversion_rate": 11.76
+    },
+    {
+      "intent": "email_verification",
+      "total_intents": 20,
+      "pct_of_total": 5.68,
+      "purchase_conversion_rate": 9.09
+    }
+  ],
+  "cancellation_sla": {
+    "total_orders": 15.0,
+    "canceled": 2.0,
+    "violations": 1.0,
+    "violation_rate_pct": 6.67
+  }
+}
